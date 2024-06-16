@@ -15,7 +15,7 @@ step 2 reverse n to len-1 part of array;
 step 3 reverse whole array; 0 to len;
 
 write function eftRotation(int[] arr, int len, int n)
-    call reverse function two time 
+    call reverse function two time
 
     1> call reverse function for 0 to n-1;
     2> call reverse function for n to len-1;
